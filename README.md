@@ -6,7 +6,7 @@ I'm Nicholas Dale, an aspiring data professional who used to be a nursing studen
 
 🔭 I am currently working on a conversational AI model specialised in humanised mental health support.
 
-### More about me: 
+### More about me
 
 - While Python is my first language I've mastered, my **actual** first language is Java - I learned it from a maths tutor when I was 15 and curious about the world of coding!
 
@@ -16,8 +16,11 @@ I'm Nicholas Dale, an aspiring data professional who used to be a nursing studen
 
 - The only books I read are non-fiction; they're either evidence-based self-help books or books about my interests.
 
+- System.out.println("Love Live for life <3");
+
 ### GitHub Stats
 
 [![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=falconpunch082&hide_rank=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falconpunch082)](https://github.com/anuraghazra/github-readme-stats)
+
