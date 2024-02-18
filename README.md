@@ -16,4 +16,6 @@ I'm Nicholas Dale, an aspiring data professional who used to be a nursing studen
 
 ### GitHub Stats
 
-[![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=falconpunch082)](https://github.com/anuraghazra/github-readme-stats)
+[![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=falconpunch082&hide_rank=True)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falconpunch082)](https://github.com/anuraghazra/github-readme-stats)
