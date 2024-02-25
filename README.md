@@ -4,6 +4,10 @@ I'm Nicholas Dale, an aspiring data professional who used to be a nursing studen
 
 🌱 Recently graduated from a Data Analytics Bootcamp, currently a Data Science student in university, with hopes of gaining a Master's degree in Health Data Analytics to marry my technical and healthcare experiences together. 
 
+🔭 Currently working on refining my data analysis skills through application to several open-source datasets. Check it out [here](https://github.com/falconpunch082/industry-application/tree/main)!
+
+💡 I am currently interested in applying a humane touch in medical conversational AI.
+
 ### More about me
 
 - While Python is my first language I've mastered, my **actual** first language is Java - I learned it from a maths tutor when I was 15 and curious about the world of coding!
